@@ -4,8 +4,8 @@ import picoweb
 import network
 import ujson
 
-SSID = 'Miri'
-PASSWORD = '87654321'
+SSID = 'name'
+PASSWORD = 'password'
 
 
 def connect_wifi(ssid, password):
